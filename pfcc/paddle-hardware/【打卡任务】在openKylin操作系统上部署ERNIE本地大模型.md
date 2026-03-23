@@ -87,7 +87,7 @@ https://gitee.com/openkylin/community-management
 【打卡内容】：在openKylin操作系统上部署ERNIE大模型
 
 【打卡截图（运行结果截图）】：
-![输入图片说明](images/openKylin运行截图.png)
+![输入图片说明](images/openKylin运行结果截图.png)
 
 # 【终极任务】开发一款图形化AI助手demo应用
 ## 1、任务要求
