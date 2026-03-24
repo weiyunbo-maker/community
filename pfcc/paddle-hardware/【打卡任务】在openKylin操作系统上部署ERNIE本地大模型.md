@@ -89,4 +89,4 @@ https://gitee.com/openkylin/community-management
 【打卡截图（运行结果截图）】：
 ![输入图片说明](images/openKylin运行截图.png)
 
-**打卡任务提交成功后，请发送一封邮件附上issue链接到该邮箱：contact@openkylin.top、ext_paddle_oss@baidu.com** 
+**打卡任务提交成功后，请发送一封邮件附上issue链接到以下邮箱：contact@openkylin.top、ext_paddle_oss@baidu.com** 
